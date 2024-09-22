@@ -1,6 +1,6 @@
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 ### Hi there 👋 I'm [Tiziano!](https://github.com/Tizi04)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## I'm a FullStack Developer
 
