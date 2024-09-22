@@ -12,7 +12,7 @@
 
 ##### Languages I use
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C](https://img.shields.io/badge/--000000?style=flat&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
