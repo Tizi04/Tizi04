@@ -15,11 +15,11 @@
 ![C](https://img.shields.io/badge/--000000?style=flat&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
+![PHP](https://img.shields.io/badge/-Java-000000?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Java-000000?style=flat&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
